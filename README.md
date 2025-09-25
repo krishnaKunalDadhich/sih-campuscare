@@ -1,30 +1,148 @@
-# CampusCare website prototype
+<p align="center">
+  <img src="banner.png" alt="CampusCare Banner" width="100%" />
+</p>
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+# 🌱 CampusCare – Mindful Campus: Your Student Wellness Companion  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/krishna24jics108-4883s-projects/v0-campus-care-website-prototype)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/YtwLSeNXQdI)
+[![Live Demo](https://img.shields.io/badge/🔗-Live%20Prototype-blue?style=flat&logo=vercel)](https://sih-campuscare-8y1qrnaj3-krishna-kunal-dadhichs-projects.vercel.app/)  
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Node.js%20%7C%20React%20Native%20%7C%20MongoDB%20%7C%20Python-green)  
+![License](https://img.shields.io/badge/License-MIT-orange)  
+![Status](https://img.shields.io/badge/Status-Prototype%20Phase-yellow)  
 
-## Overview
+> A **Smart India Hackathon 2025** project designed to provide accessible, confidential, and culturally-sensitive **mental health support for students** in higher education.  
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+---
 
-## Deployment
+## 📌 Problem Statement  
+**Problem ID:** 25092  
+**Theme:** MedTech / BioTech / HealthTech  
+**Category:** Software  
 
-Your project is live at:
+Students in higher education often face **stress, anxiety, and stigma**. Current systems are:  
+- ❌ Fragmented  
+- ❌ Expensive  
+- ❌ Lacking confidentiality  
 
-**[https://vercel.com/krishna24jics108-4883s-projects/v0-campus-care-website-prototype](https://vercel.com/krishna24jics108-4883s-projects/v0-campus-care-website-prototype)**
+---
 
-## Build your app
+## 💡 Our Solution – *CampusCare*  
+🌱 **CampusCare** is a **digital-first wellness platform** that empowers students with:  
+- 🧠 **AI Chatbot** → 24x7 psychological support.  
+- 🎯 **Personalized Resources** → stress management, meditation, suicide prevention.  
+- 👥 **Anonymous Peer Forums** → safe & moderated.  
+- 📊 **Institution Dashboard** → anonymized insights for counselors.  
+- 🔐 **Privacy-first Approach** → encrypted & stigma-free.  
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/projects/YtwLSeNXQdI](https://v0.app/chat/projects/YtwLSeNXQdI)**
+## 🛠️ Tech Stack  
 
-## How It Works
+| Layer        | Technology |
+|--------------|------------|
+| **Frontend** | React Native |
+| **Backend**  | Node.js with Express.js |
+| **Database** | MongoDB |
+| **AI/ML**    | Python + NLTK |
+| **Hosting**  | AWS / Google Cloud |
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 🔄 User Journey  
+1. **Onboarding** – Login with institutional credentials.  
+2. **Chatbot Interaction** – AI provides confidential support.  
+3. **Personal Dashboard** – Track wellness & activities.  
+4. **Peer Forum** – Share experiences anonymously.  
+5. **Analytics Dashboard** – Institutions get anonymized insights.  
+
+---
+
+## ✅ Feasibility & Viability  
+✔ **Low-cost & scalable** – Open-source stack.  
+✔ **Modular design** – Easy phased rollout.  
+✔ **Privacy-first** – Encrypted + anonymized.  
+✔ **Adoption strategies** – Awareness drives + student body support.  
+
+---
+
+## ⚡ Impact  
+
+### 🎓 For Students  
+- Safe & stigma-free access to help.  
+- Builds resilience and emotional intelligence.  
+- Improves overall well-being.  
+
+### 🏫 For Institutions  
+- Scalable & affordable support system.  
+- Early detection of wellness risks.  
+- Promotes a healthier campus environment.  
+
+---
+
+## 🚀 Future Enhancements  
+- 🤖 Advanced AI for early detection of high-risk cases.  
+- 📱 Integration with wearables (stress monitoring).  
+- 🌍 Multi-language inclusivity.  
+- 🧑‍⚕️ Integration with certified counselors.  
+
+---
+
+## 🖥️ How to Run Locally  
+
+### Prerequisites  
+- Node.js (>= 16.x)  
+- MongoDB  
+- Python (>= 3.8)  
+
+### Setup  
+```bash
+# Clone repo
+git clone https://github.com/your-username/sih-campuscare.git
+cd sih-campuscare
+
+# Backend
+cd backend
+npm install
+npm start   # runs on localhost:5000
+
+# Frontend
+cd ../frontend
+npm install
+npm start   # runs on localhost:3000
+
+# Chatbot (optional)
+cd ../chatbot
+pip install -r requirements.txt
+python app.py
+```
+
+---
+
+## 📸 Prototype Preview  
+
+<p align="center">
+  <img src="assets/chatbot.png" alt="Chatbot Demo" width="45%"/>
+  <img src="assets/dashboard.png" alt="Dashboard Preview" width="45%"/>
+</p>  
+
+---
+
+## 👨‍💻 Team – *CampusCare*  
+- **Hackathon Team ID:** _(To be filled)_  
+- **Team Name:** CampusCare  
+- **Team Leader:** Krishna Kunal Dadhich  
+
+---
+
+## 📚 References  
+- WHO Mental Health Guidelines  
+- Academic papers on AI-driven psychological support  
+- Student wellness frameworks  
+
+---
+
+## 📄 License  
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE.md) file for details.  
+
+---
+
+✨ *CampusCare – Because every student’s mental health matters.*  
