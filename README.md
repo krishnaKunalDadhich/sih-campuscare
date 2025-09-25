@@ -2,7 +2,7 @@
   <img src="banner.png" alt="CampusCare Banner" width="100%" />
 </p>
 
-# 🌱 CampusCare – Mindful Campus: Your Student Wellness Companion  
+# CampusCare – Mindful Campus: Your Student Wellness Companion  
 
 [![Live Demo](https://img.shields.io/badge/🔗-Live%20Prototype-blue?style=flat&logo=vercel)](https://sih-campuscare-8y1qrnaj3-krishna-kunal-dadhichs-projects.vercel.app/)  
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Node.js%20%7C%20React%20Native%20%7C%20MongoDB%20%7C%20Python-green)  
